@@ -1,4 +1,4 @@
-mermaid
+'''mermaid
 flowchart TD
     A[Início] --> B[Conectar ao servidor]
     B --> C{Receber Menu}
